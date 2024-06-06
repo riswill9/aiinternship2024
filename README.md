@@ -4,4 +4,4 @@ A repository consisting of works and practices done during Seidenbergs Artificia
 
   * Exploring the concept of Databases using Python in Google Collab
   * Using libraries to extract and store data
-  * 
+  * AI uses the RGB scale and the Pillow library to modify photos
